@@ -1,0 +1,21 @@
+{
+  "name": "darker-visual-studio",
+  "displayName": "darker+-visual-studio",
+  "description": "A darler visual studio code theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "darker+-visual-studio-code",
+        "uiTheme": "vs-dark",
+        "path": "./themes/darker+-visual-studio-code-color-theme.json"
+      }
+    ]
+  }
+}
